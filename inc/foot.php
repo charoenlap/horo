@@ -5,13 +5,13 @@
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="newsletter_cont">
-								<h2>Subscribe Our <span>Newletter</span></h2>
+								<h2>สมัครติดตาม <span>ด้วยอีเมล</span></h2>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="newsletter_form">
 								<form>
-									<input name="email" type="email" placeholder="Email Address..."><a href="#">subscribe</a>
+									<input name="email" type="email" placeholder="Email Address..."><a href="#">ติดตาม</a>
 								</form>
 							</div>
 						</div>
@@ -35,7 +35,7 @@
 							<img src="images/content/footer_logo.png" alt="footer_logo" class="img-responsive" />
 							<h3>+1800-123-123</h3>
 							<p>Donec id elit non mi porta gravida at eget metus. Donec id elit non Vestibulum id ligula porta felis euism od semper.</p>
-							<h4><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
+							<h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
 							<ul>
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>

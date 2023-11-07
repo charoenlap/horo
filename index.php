@@ -9,12 +9,12 @@
                             <div class="row">
                                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="content">
-                                        <h1 data-animation="animated bounceInLeft">Welcome To</h1>
+                                        <h1 data-animation="animated bounceInLeft">ยินดีต้อนรับสู่</h1>
                                         <h2 data-animation="animated zoomInDown">the <span>Jyotish</span> Astrology</h2>
                                         <p data-animation="animated bounceInUp">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi <br> elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio.</p>
                                         <div class="hs_effect_btn">
                                             <ul>
-                                                <li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">Read more</a></li>
+                                                <li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
                                             </ul>
                                         </div>
                                         <div class="clear"></div>
@@ -91,12 +91,12 @@
                             <div class="row">
                                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="content">
-                                        <h1 data-animation="animated bounceInLeft">Welcome To</h1>
+                                        <h1 data-animation="animated bounceInLeft">ยินดีต้อนรับสู่</h1>
                                         <h2 data-animation="animated zoomInDown">the <span>Jyotish</span> Astrology</h2>
                                         <p data-animation="animated bounceInUp">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi <br> elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio.</p>
                                         <div class="hs_effect_btn">
                                             <ul>
-                                                <li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">Read more</a></li>
+                                                <li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
                                             </ul>
                                         </div>
                                         <div class="clear"></div>
@@ -193,8 +193,8 @@
 								</div>
 								<div class="form-group">
 									<select class="gender_select" name="gender">
-										<option value="male">Male</option>
-										<option value="female">Female</option>
+										<option value="male">ผู้ชาย</option>
+										<option value="female">ผู้หญิง</option>
 									</select>
 								</div>
 								<div class="form-group">
@@ -216,14 +216,14 @@
 									<input type="password" class="form-control" name="Password" placeholder="Password">
 								</div>
 								<div class="remember_box">
-									<label class="control control--checkbox"> Terms-and-conditions
+									<label class="control control--checkbox"> เงื่อนไข และข้อกำหนด
 									<input type="checkbox">
 										<span class="control__indicator"></span>
 									</label>
 								</div>
 								<div class="hs_effect_btn">
 									<ul>
-										<li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">Get Free Account</a></li>
+										<li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">สมัครสมาชิก ฟรี</a></li>
 									</ul>
 								</div>
 							</form>
@@ -408,7 +408,7 @@
                         <div class="hs_title_img_cont_wrapper">
                             <h2><a href="#">Tarot Reading</a></h2>
                             <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis.</p>
-                            <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                            <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                         </div>
                     </div>
                 </div>
@@ -423,7 +423,7 @@
                         <div class="hs_title_img_cont_wrapper">
                             <h2><a href="#">Crystal ball reading</a></h2>
                             <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis.</p>
-                            <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                            <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                         </div>
                     </div>
                 </div>
@@ -438,14 +438,14 @@
                         <div class="hs_title_img_cont_wrapper">
                             <h2><a href="#">Palm Reading</a></h2>
                             <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis.</p>
-                            <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                            <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                         </div>
                     </div>
                 </div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="hs_effect_btn">
                          <ul>
-                             <li><a href="#" class="hs_btn_hover">View All</a></li>
+                             <li><a href="#" class="hs_btn_hover">ดูทั้งหมด</a></li>
                          </ul>
 					</div>
                 </div>
@@ -473,7 +473,7 @@
 													<p>This is Photoshop's version of Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem<br> quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 													<div class="hs_effect_btn hs_news_slider_btn_wrapper">
 														<ul>
-															<li><a href="#" class="hs_btn_hover">Read more</a></li>
+															<li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
 														</ul>
 													</div>
 												</div>
@@ -485,7 +485,7 @@
 													<p>This is Photoshop's version of Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem<br> quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 													<div class="hs_effect_btn hs_news_slider_btn_wrapper">
 														<ul>
-															<li><a href="#" class="hs_btn_hover">Read more</a></li>
+															<li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
 														</ul>
 													</div>
 												</div>
@@ -497,7 +497,7 @@
 													<p>This is Photoshop's version of Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem<br> quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 													<div class="hs_effect_btn hs_news_slider_btn_wrapper">
 														<ul>
-															<li><a href="#" class="hs_btn_hover">Read more</a></li>
+															<li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
 														</ul>
 													</div>
 												</div>
@@ -538,7 +538,7 @@
                        
                         <div class="hs_effect_btn hs_about_btn">
                             <ul>
-                                <li><a href="#" class="hs_btn_hover">Read more</a></li>
+                                <li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
                             </ul>
                         </div>
                     </div>
@@ -661,7 +661,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>Career</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -675,7 +675,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>marriage</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -689,7 +689,7 @@
 									<div class="hs_service_icon_cont_wrapper">
                                         <h2>Worship lesson</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                            </div>
@@ -703,7 +703,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>Pregnancy</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -717,7 +717,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>Manglik Dosha</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -731,7 +731,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>Kundli Dosha</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -745,7 +745,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>Festivals</h2>
                                         <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -759,7 +759,7 @@
                                     <div class="hs_service_icon_cont_wrapper">
                                         <h2>Name Analysis</h2>
 										<p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
-                                        <h5><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h5>
+                                        <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
 							</div>
@@ -956,7 +956,7 @@
 							</div>
                             <h5>Proin gravida nibh vel velit auctor aliquet.</h5>
                             <p>Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet.</p>
-                            <h4><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
+                            <h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                     </div>
                 </div>
@@ -981,7 +981,7 @@
 							</div>
                             <h5>Proin gravida nibh vel velit auctor aliquet.</h5>
                             <p>Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet.</p>
-                            <h4><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
+                            <h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                     </div>
                 </div>
@@ -1006,14 +1006,14 @@
 							</div>
                             <h5>Proin gravida nibh vel velit auctor aliquet.</h5>
                             <p>Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet.</p>
-                            <h4><a href="#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
+                            <h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                     </div>
                 </div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="hs_effect_btn">
                          <ul>
-                             <li><a href="#" class="hs_btn_hover">View All</a></li>
+                             <li><a href="#" class="hs_btn_hover">ดูทั้งหมด</a></li>
                          </ul>
 					</div>
                 </div>
