@@ -252,8 +252,8 @@
 								<img src="images/content/icon1.png" alt="icon1">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Aries</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีเมษ</h2>
+								<p>13 เม.ย.-13 พ.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -263,8 +263,8 @@
 								<img src="images/content/icon2.png" alt="icon2">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Taurus</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีพฤษภ</h2>
+								<p>14 พ.ค.-13มิ.ย.</p>
 							</div>
 						</div>
 					</div>
@@ -274,8 +274,8 @@
 								<img src="images/content/icon3.png" alt="icon3">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Gemini</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีเมถุน</h2>
+								<p>14 มิ.ย.-14 ก.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -285,8 +285,8 @@
 								<img src="images/content/icon4.png" alt="icon4">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Cancer</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีกรกฎ</h2>
+								<p>15 ก.ค.–16 ส.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -296,8 +296,8 @@
 								<img src="images/content/icon5.png" alt="icon5">
 							</div>
 							<div class="sign_box_cont">
-								<h2>leo</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีสิงห์</h2>
+								<p>17 ส.ค.–16 ก.ย.</p>
 							</div>
 						</div>
 					</div>
@@ -307,8 +307,8 @@
 								<img src="images/content/icon6.png" alt="icon6">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Virgo</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีกันย์</h2>
+								<p>17 ก.ย.–16 ต.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -318,8 +318,8 @@
 								<img src="images/content/icon7.png" alt="icon7">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Libra</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีตุลย์</h2>
+								<p>17 ต.ค.-15 พ.ย.</p>
 							</div>
 						</div>
 					</div>
@@ -329,8 +329,8 @@
 								<img src="images/content/icon8.png" alt="icon8">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Scorpio</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีพิจิก</h2>
+								<p>16 พ.ย.–15 ธ.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -340,8 +340,8 @@
 								<img src="images/content/icon9.png" alt="icon9">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Sagittairus</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีธนู</h2>
+								<p>16 ธ.ค.–13 ม.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -351,8 +351,8 @@
 								<img src="images/content/icon10.png" alt="icon10">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Capricorn</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีมังกร</h2>
+								<p>14 ม.ค.–12 ก.พ.</p>
 							</div>
 						</div>
 					</div>
@@ -362,8 +362,8 @@
 								<img src="images/content/icon11.png" alt="icon11">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Aquarius</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีกุมภ์</h2>
+								<p>13 ก.พ.–13 มี.ค.</p>
 							</div>
 						</div>
 					</div>
@@ -373,8 +373,8 @@
 								<img src="images/content/icon12.png" alt="icon12">
 							</div>
 							<div class="sign_box_cont">
-								<h2>Pisces</h2>
-								<p>31 Mar - 12 Oct</p>
+								<h2>ราศีมีน</h2>
+								<p>14 มี.ค.–12 เม.ย.</p>
 							</div>
 						</div>
 					</div>

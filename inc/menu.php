@@ -125,7 +125,34 @@
                                 <a class="menu-button" href="#">บริการของเรา</a>
                                 <ul class="dropdown-menu hs_mega_menu">
                                     <li>
-                                        <a class="menu-button" href="aries.php">ดูดวงไพ่ทาโร่</a>
+                                        <a class="menu-button" href="aries.php">โหราศาสตร์ไทย</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">ลายมือ</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">โหงวเฮ้ง</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">เลข ๗ ตัว</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">ไพ่ยิปซี</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">อักษรรูน</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">เลขศาสตร์</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">นามศาสตร์</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">ฤกษ์ยาม</a>
+                                    </li>
+                                    <li>
+                                        <a class="menu-button" href="aries.php">ฮวงจุ้ย</a>
                                     </li>
                                 </ul>
                             </li>
