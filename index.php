@@ -239,7 +239,7 @@
 				<div class="hs_sign_heading_wrapper">
 					<div class="hs_about_heading_main_wrapper">
 						<div class="hs_about_heading_wrapper">
-							<h2><i class="fa fa-clock"></i>Choose Your <span>Zodiac Sign</span></h2>
+							<h2><i class="fa fa-clock"></i>กรุณาเลือก <span>ราศีของท่าน</span></h2>
 							<h4><span>&nbsp;</span></h4>
 							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br> auctor, nisi elit consequat hello Aenean world.</p>
 						</div>
