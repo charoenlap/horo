@@ -11,7 +11,7 @@
                                     <div class="content">
                                         <h1 data-animation="animated bounceInLeft">ยินดีต้อนรับสู่</h1>
                                         <h2 data-animation="animated zoomInDown">the <span>Jyotish</span> Astrology</h2>
-                                        <p data-animation="animated bounceInUp">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi <br> elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio.</p>
+                                        <p data-animation="animated bounceInUp">สังคมโหราศาสตร์ของเรา</p>
                                         <div class="hs_effect_btn">
                                             <ul>
                                                 <li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
@@ -93,7 +93,7 @@
                                     <div class="content">
                                         <h1 data-animation="animated bounceInLeft">ยินดีต้อนรับสู่</h1>
                                         <h2 data-animation="animated zoomInDown">the <span>Jyotish</span> Astrology</h2>
-                                        <p data-animation="animated bounceInUp">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi <br> elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio.</p>
+                                        <p data-animation="animated bounceInUp">สังคมโหราศาสตร์ของเรา</p>
                                         <div class="hs_effect_btn">
                                             <ul>
                                                 <li data-animation="animated flipInX"><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>

@@ -106,7 +106,7 @@
             <div class="hs_top_header_main_Wrapper">
                 <div class="hs_header_logo_left">
                     <div class="hs_logo_wrapper">
-                        <a href="index.php"><img src="images/header/logo.png" class="img-responsive" alt="logo" title="Logo"/></a>
+                        <a href="index.php">Talk Horo</a>
                     </div>
                 </div>
                 <div class="hs_header_logo_right">
@@ -182,7 +182,7 @@
             <div class="row">
                 <div class="col-xs-6 col-sm-6">
                     <div class="hs_logo">
-                        <a href="index.php"><img src="images/header/logo.png" alt="Logo" title="Logo"></a>
+                        <a href="index.php">Talk Horo</a>
                     </div>
                 </div>
                 <div class="col-xs-6 col-sm-6">
@@ -208,7 +208,7 @@
                             </svg>
                         </a>
                         <nav class="cd-dropdown">
-                            <h2><a href="index.php">Jyotish</a></h2>
+                            <h2><a href="index.php">Talk Horo</a></h2>
                             <a href="#0" class="cd-close">ปิด</a>
                             <ul class="cd-dropdown-content">
                                 <li class="has-children">
@@ -230,7 +230,7 @@
                                 <li class="has-children">
                                     <a href="#">บริการของเรา</a>
                                     <ul class="cd-secondary-dropdown is-hidden">
-                                        <li class="go-back"><a href="#0">Menu</a></li>
+                                        <li class="go-back"><a href="#0">เมนู</a></li>
                                         <li>
                                             <a href="aries.php">ดูดวงไพ่ทาโร่</a>
                                         </li>
