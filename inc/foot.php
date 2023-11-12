@@ -32,9 +32,8 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 						<div class="hs_footer_logo_wrapper">
-							<img src="images/content/footer_logo.png" alt="footer_logo" class="img-responsive" />
-							<h3>+1800-123-123</h3>
-							<p>Donec id elit non mi porta gravida at eget metus. Donec id elit non Vestibulum id ligula porta felis euism od semper.</p>
+							<!-- <h3>+1800-123-123</h3> -->
+							<p>ติดตามเราเพื่ออัพเดทดวงใหม่ทุกวันที่เพจ Facebook, Instagram, และ Twitter</p>
 							<h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
 							<ul>
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -44,7 +43,7 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 						<div class="hs_footer_list_wrapper">
 							<h2>Our <span>Services</span></h2>
 							<ul class="hs_footer_list">
@@ -93,7 +92,7 @@
 							  </a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>

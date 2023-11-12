@@ -10,22 +10,22 @@
                             <i class="fa fa-home"></i>
                         </div>
                         <div class="hs_header_add_icon_cont">
-                            <p>601 , กรุงเทพ</p>
+                            <p></p>
                         </div>
                     </div>
                     <div class="hs_header_add_wrapper">
                         <div class="hs_header_add_icon last">
-                            <i class="fa fa-phone"></i>
+                            <!-- <i class="fa fa-phone"></i> -->
                         </div>
                         <div class="hs_header_add_icon_cont">
-                            <p>+1800-123-123</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-7 col-sm-7 col-xs-7">
                     <div class="hs_top_right_wrapper">
                         <div class="hs_navi_searchbar_wrapper hidden-sm hidden-xs">
-                            <input type="text" placeholder="Search here">
+                            <input type="text" placeholder="ค้นหาที่นี่">
                             <button><i class="fa fa-search"></i></button>
                         </div>
                         <ul class="cart_login_wrapper">
@@ -105,7 +105,7 @@
             <!-- hs top header Start -->
             <div class="hs_top_header_main_Wrapper">
                 <div class="hs_header_logo_left">
-                    <div class="hs_logo_wrapper">
+                    <div class="hs_logo_wrapper" style="padding: 40px;">
                         <a href="index.php">Talk Horo</a>
                     </div>
                 </div>

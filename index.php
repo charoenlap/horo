@@ -30,7 +30,7 @@
                                                     </div>
                                                     <div class="hs_slider_tabs_icon_cont_wrapper">
                                                         <ul>
-                                                            <li><a href="#" class="hs_tabs_btn">Vasthusastra</a></li>
+                                                            <li><a href="#" class="hs_tabs_btn">หน้าหลัก</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -42,7 +42,7 @@
                                                     </div>
                                                     <div class="hs_slider_tabs_icon_cont_wrapper">
                                                         <ul>
-                                                            <li><a href="#" class="hs_tabs_btn">Carrer Tarot</a></li>
+                                                            <li><a href="#" class="hs_tabs_btn">ไพ่ทาโร่</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -57,7 +57,7 @@
 																</div>
 																<div class="hs_slider_tabs_icon_cont_wrapper">
 																	<ul>
-																		<li><a href="#" class="hs_tabs_btn">Love Tarot</a></li>
+																		<li><a href="#" class="hs_tabs_btn">ความรัก</a></li>
 																	</ul>
 																</div>
 															</div>
@@ -69,7 +69,7 @@
 																</div>
 																<div class="hs_slider_tabs_icon_cont_wrapper">
 																	<ul>
-																		<li><a href="#" class="hs_tabs_btn">Numerology</a></li>
+																		<li><a href="#" class="hs_tabs_btn">โชคลาภ</a></li>
 																	</ul>
 																</div>
 															</div>
@@ -189,7 +189,7 @@
 						<div class="hs_slider_bottom_box">
 							<form>
 								<div class="form-group">
-									<input type="text" class="form-control" name="nameOne" placeholder="My Name is">
+									<input type="text" class="form-control" name="nameOne" placeholder="ชื่อของคุณ">
 								</div>
 								<div class="form-group">
 									<select class="gender_select" name="gender">
@@ -207,13 +207,13 @@
 									</select>
 								</div>
 								<div class="form-group">
-									<input type="text" class="form-control" name="phone_no" placeholder="Mobile Number">
+									<input type="text" class="form-control" name="phone_no" placeholder="เบอร์โทรศัพท์">
 								</div>
 								<div class="form-group">
-									<input type="email" class="form-control" name="email" placeholder="Email">
+									<input type="email" class="form-control" name="email" placeholder="อีเมล">
 								</div>
 								<div class="form-group">
-									<input type="password" class="form-control" name="Password" placeholder="Password">
+									<input type="password" class="form-control" name="Password" placeholder="รหัสผ่าน">
 								</div>
 								<div class="remember_box">
 									<label class="control control--checkbox"> เงื่อนไข และข้อกำหนด
@@ -241,7 +241,7 @@
 						<div class="hs_about_heading_wrapper">
 							<h2><i class="fa fa-clock"></i>กรุณาเลือก <span>ราศีของท่าน</span></h2>
 							<h4><span>&nbsp;</span></h4>
-							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br> auctor, nisi elit consequat hello Aenean world.</p>
+							<p>คำทำนายดวงที่เปลี่ยนไปตามช่วงเวลา ด้วยความลึกลับและภูมิปัญญาที่มีต่อดวงจันทร์</p>
 						</div>
 					</div>
 				</div>
@@ -391,9 +391,9 @@
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="hs_about_heading_main_wrapper">
                         <div class="hs_about_heading_wrapper">
-                            <h2>Our Most <span>Services</span></h2>
+                            <h2>การบริการ <span>ของเรา</span></h2>
                             <h4><span>&nbsp;</span></h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br> auctor, nisi elit consequat hello Aenean world.</p>
+                            <p>ค้นพบปริศนาและเคล็ดลับด้านดวงจันทร์ที่เป็นประโยชน์</p>
                         </div>
                     </div>
                 </div>
@@ -407,7 +407,7 @@
                         </div>
                         <div class="hs_title_img_cont_wrapper">
                             <h2><a href="#">Tarot Reading</a></h2>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis.</p>
+                            <p>ดวงทำนายทั้งด้านความรัก, การงาน, และสุขภาพ ที่ครอบคลุมทุกด้านของชีวิตคุณ</p>
                             <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                         </div>
                     </div>
@@ -421,8 +421,8 @@
                             </ul>
                         </div>
                         <div class="hs_title_img_cont_wrapper">
-                            <h2><a href="#">Crystal ball reading</a></h2>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis.</p>
+                            <h2><a href="#">ความรู้และภูมิปัญญา</a></h2>
+                            <p>ความรู้และภูมิปัญญาในการทำนายดวงที่ทำให้คุณมั่นใจและมีแรงบันดาลใจ.</p>
                             <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                         </div>
                     </div>
@@ -436,8 +436,8 @@
                             </ul>
                         </div>
                         <div class="hs_title_img_cont_wrapper">
-                            <h2><a href="#">Palm Reading</a></h2>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin lorem quis.</p>
+                            <h2><a href="#">การอ่าน</a></h2>
+                            <p>อ่านบทความเกี่ยวกับดวงที่เป็นประโยชน์ และเติมเต็มความรู้ด้านดวงของคุณ.</p>
                             <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                         </div>
                     </div>
@@ -468,9 +468,9 @@
 										<div class="owl-carousel owl-theme">
 											<div class="item">
 												<div class="hs_news_slider_cont_wrapper">
-													<h2>Today Horoscope</h2>
-													<h3>Believe in things that can fortunately<br> change your life</h3>
-													<p>This is Photoshop's version of Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem<br> quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+													<h2>ดวงวันนี้</h2>
+													<h3>พิมพ์ชื่อและวันเกิดของคุณ<br> เพื่อเปิดประตูสู่โลกของดวงที่เป็นมิตร</h3>
+													<p>ประสบการณ์ดวงจันทร์ที่ไม่เคยมีมาก่อน ให้เราช่วยคุณค้นหาคำทำนายที่เป็นเพียงเพื่อคุณเท่านั้น</p>
 													<div class="hs_effect_btn hs_news_slider_btn_wrapper">
 														<ul>
 															<li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
@@ -480,9 +480,9 @@
 											</div>
 											<div class="item">
 												<div class="hs_news_slider_cont_wrapper">
-													<h2>Today Horoscope</h2>
-													<h3>Believe in things that can fortunately<br> change your life</h3>
-													<p>This is Photoshop's version of Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem<br> quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+													<h2>ดวงวันนี้</h2>
+													<h3>พิมพ์ชื่อและวันเกิดของคุณ<br> เพื่อเปิดประตูสู่โลกของดวงที่เป็นมิตร</h3>
+													<p>ประสบการณ์ดวงจันทร์ที่ไม่เคยมีมาก่อน ให้เราช่วยคุณค้นหาคำทำนายที่เป็นเพียงเพื่อคุณเท่านั้น</p>
 													<div class="hs_effect_btn hs_news_slider_btn_wrapper">
 														<ul>
 															<li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
@@ -490,11 +490,11 @@
 													</div>
 												</div>
 											</div>
-											<div class="item">
+                                            <div class="item">
 												<div class="hs_news_slider_cont_wrapper">
-													<h2>Today Horoscope</h2>
-													<h3>Believe in things that can fortunately<br> change your life</h3>
-													<p>This is Photoshop's version of Lorem ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem<br> quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+													<h2>ดวงวันนี้</h2>
+													<h3>พิมพ์ชื่อและวันเกิดของคุณ<br> เพื่อเปิดประตูสู่โลกของดวงที่เป็นมิตร</h3>
+													<p>ประสบการณ์ดวงจันทร์ที่ไม่เคยมีมาก่อน ให้เราช่วยคุณค้นหาคำทำนายที่เป็นเพียงเพื่อคุณเท่านั้น</p>
 													<div class="hs_effect_btn hs_news_slider_btn_wrapper">
 														<ul>
 															<li><a href="#" class="hs_btn_hover">อ่านต่อ</a></li>
@@ -531,10 +531,9 @@
                         </div>
                     </div>
                     <div class="hs_about_right_cont_wrapper">
-						<h1>+1800-123-123</h1>
-                        <h2>Horoscope Revels The Will Of God</h2>
-                        <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti<br><br>
-						sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue.</p>
+						<!-- <h1>+1800-123-123</h1> -->
+                        <h2>ในทุกวันนี้, ค้นพบปริศนาของดวงจันทร์และดาวที่คุณต้องการรู้</h2>
+                        <p>เปิดตำนานดวงดาวที่ปกคลุมโลก และสามารถกำหนดแนวทางในการค้นหาคำตอบในชีวิตของคุณ</p>
                        
                         <div class="hs_effect_btn hs_about_btn">
                             <ul>
@@ -548,7 +547,7 @@
     </div>
     <!-- hs about ind wrapper End -->
 	<!-- hs testi slider wrapper Start -->
-    <div class="hs_testi_slider_main_wrapper">
+    <!-- <div class="hs_testi_slider_main_wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -634,7 +633,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- hs testi slider wrapper End -->
     <!-- hs service wrapper Start -->
     <div class="hs_service_main_wrapper">
@@ -643,9 +642,9 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="hs_about_heading_main_wrapper">
                         <div class="hs_about_heading_wrapper">
-                            <h2>Our <span> services</span></h2>
+                            <h2>การบริการ <span> ของเรา</span></h2>
                             <h4><span>&nbsp;</span></h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br> auctor, nisi elit consequat hello Aenean world.</p>
+                            <p>ทำนายดวงในทุกวัน เพื่อเข้าใจและก้าวทันกับชีวิตทุกมุมมอง</p>
                         </div>
                     </div>
                 </div>
@@ -659,8 +658,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>Career</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>โหราศาสตร์ไทย</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -673,8 +672,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>marriage</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>ลายมือ</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -687,8 +686,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
 									<div class="hs_service_icon_cont_wrapper">
-                                        <h2>Worship lesson</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>โหงวเฮ้ง</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -701,8 +700,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>Pregnancy</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>เลข ๗ ตัว</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -715,8 +714,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>Manglik Dosha</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>ไพ่ยิปซี</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -729,8 +728,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>Kundli Dosha</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>อักษรรูน</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -743,8 +742,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>Festivals</h2>
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>เลขศาสตร์</h2>
+                                        <p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -757,8 +756,8 @@
                                         <div class="btc_step_overlay"></div>
                                     </div>
                                     <div class="hs_service_icon_cont_wrapper">
-                                        <h2>Name Analysis</h2>
-										<p>Proin gravida nibh vel velit auctor aliquet. Aenean .</p>
+                                        <h2>นามศาสตร์</h2>
+										<p>เรารู้ใจดวงจันทร์ เป็นเหตุผลที่คุณควรเชื่อมั่นในคำทำนายที่เรามี</p>
                                         <h5><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h5>
                                     </div>
                                 </div>
@@ -774,7 +773,7 @@
     </div>
     <!-- hs service wrapper End -->
 	<!-- hs Counter wrapper Start -->
-    <div class="hs_counter_main_wrapper">
+    <!-- <div class="hs_counter_main_wrapper">
         <div class="hs_counter_cont_wrapper">
             <div class="count-description">
                 <span class="timer">123</span>
@@ -809,10 +808,10 @@
                 </h5>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- hs Counter wrapper End -->
 	<!-- hs astrology team wrapper Start -->
-    <div class="hs_astrology_team_main_wrapper">
+    <!-- <div class="hs_astrology_team_main_wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -920,7 +919,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- hs astrology team wrapper End -->
     <!-- hs latest news wrapper Start -->
     <div class="hs_latest_news_main_wrapper">
@@ -929,9 +928,9 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="hs_about_heading_main_wrapper">
                         <div class="hs_about_heading_wrapper">
-                            <h2>Latest <span> News</span></h2>
+                            <h2>ข่าวสาร <span> ล่าสุด</span></h2>
                             <h4><span>&nbsp;</span></h4>
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum<br> auctor, nisi elit consequat hello Aenean world.</p>
+                            <p>"อ่านบทความเกี่ยวกับดวงที่เป็นประโยชน์ และเติมเต็มความรู้ด้านดวงของคุณ</p>
                         </div>
                     </div>
                 </div>
@@ -950,12 +949,12 @@
 										<a href="#">By - Admin</a>
 									</li>
 									<li>
-										<a href="#">256 Comments</a>
+										<a href="#">256 คอมเม้น</a>
 									</li>
 								</ul>
 							</div>
-                            <h5>Proin gravida nibh vel velit auctor aliquet.</h5>
-                            <p>Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet.</p>
+                            <h5>ค้นพบปริศนาและเคล็ดลับด้านดวงจันทร์ที่เป็นประโยชน์.</h5>
+                            <p>ความรู้และภูมิปัญญาในการทำนายดวงที่ทำให้คุณมั่นใจและมีแรงบันดาลใจ</p>
                             <h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                     </div>
@@ -969,18 +968,18 @@
                             </ul>
                         </div>
                         <div class="hs_lest_news_cont_wrapper">
-							<div class="hs_lest_news_meta_wrapper">
+                        <div class="hs_lest_news_meta_wrapper">
 								<ul>
 									<li>
 										<a href="#">By - Admin</a>
 									</li>
 									<li>
-										<a href="#">256 Comments</a>
+										<a href="#">256 คอมเม้น</a>
 									</li>
 								</ul>
 							</div>
-                            <h5>Proin gravida nibh vel velit auctor aliquet.</h5>
-                            <p>Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet.</p>
+                            <h5>ค้นพบปริศนาและเคล็ดลับด้านดวงจันทร์ที่เป็นประโยชน์.</h5>
+                            <p>ความรู้และภูมิปัญญาในการทำนายดวงที่ทำให้คุณมั่นใจและมีแรงบันดาลใจ</p>
                             <h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                     </div>
@@ -994,18 +993,18 @@
                             </ul>
                         </div>
                         <div class="hs_lest_news_cont_wrapper">
-							<div class="hs_lest_news_meta_wrapper">
+                        <div class="hs_lest_news_meta_wrapper">
 								<ul>
 									<li>
 										<a href="#">By - Admin</a>
 									</li>
 									<li>
-										<a href="#">256 Comments</a>
+										<a href="#">256 คอมเม้น</a>
 									</li>
 								</ul>
 							</div>
-                            <h5>Proin gravida nibh vel velit auctor aliquet.</h5>
-                            <p>Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet.</p>
+                            <h5>ค้นพบปริศนาและเคล็ดลับด้านดวงจันทร์ที่เป็นประโยชน์.</h5>
+                            <p>ความรู้และภูมิปัญญาในการทำนายดวงที่ทำให้คุณมั่นใจและมีแรงบันดาลใจ</p>
                             <h4><a href="#">อ่านต่อ <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                     </div>
